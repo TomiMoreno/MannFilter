@@ -26,26 +26,26 @@
 
 <?php
                 
-                //Recuperamos usuario e IP de ingreso bloqueado
-                $usuario = $_SESSION['denegado'];
+    //Recuperamos usuario e IP de ingreso bloqueado
+    $usuario = $_SESSION['denegado'];
 
-                if(isset($_SESSION['denied'])){
-                    $IP = $_SESSION['denied'];
+    if(isset($_SESSION['denied'])){
+        $IP = $_SESSION['denied'];
 
-                    //Grabamos en la lista negra el usuario y la IP asignada
-                    include 'conexion.php';
-                    $query = "INSERT INTO `lista_negra` (`usuario`, `IP`) VALUES ('$usuario', '$IP')";
+        //Grabamos en la lista negra el usuario y la IP asignada
+        include 'conexion.php';
+        $query = "INSERT INTO `lista_negra` (`usuario`, `IP`) VALUES ('$usuario', '$IP')";
 
-                    $consulta = mysqli_query($conexion, $query);
+        $consulta = mysqli_query($conexion, $query);
 
-                    mysqli_close($conexion);  
-                }
+        mysqli_close($conexion);  
+    }
 
-               
+    
 
-                //Mensaje al usuario
-                echo '<h3>El usuario '.$usuario.' ha sido bloqueado</h3>';
-                echo '<h3>Por favor comuníquese con el administrador de Mann Filters</h3>';
+    //Mensaje al usuario
+    echo '<h3>El usuario '.$usuario.' ha sido bloqueado</h3>';
+    echo '<h3>Por favor comuníquese con el administrador de Mann Filters</h3>';
                 
 
                   

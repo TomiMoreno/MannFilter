@@ -13,8 +13,9 @@
             $supp = $_POST['supp'];
             $nombre = $_POST['name'];
             $descripcion = $_POST['description'];
-
-
+            $rojo = 0;
+            $amarillo = 0;
+            $contador = 0;
             //Consulta y filtra por columna "document_number", además filtra también por proveedor y material
             //CONSULTA INTERMINABLE DONDE TRAE LOS ESTADOS DE LOS PEDIDOS DESTE LA TABLA
             //ESTADO_PEDIDOS. DE ESTA MANERA LOS ESTADOS YA NO QUEDAN HARDCODEADOS
