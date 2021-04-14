@@ -103,7 +103,7 @@ body {
 
 /* icono de username y password*/
 .icono1 { 
-	background-image: url('user.png'); 
+	background-image: url('img/user.png'); 
 	background-repeat: no-repeat;
 	background-position: 5px center;
 	background-size: 30px;
@@ -238,7 +238,7 @@ body {
 
 /* icono de username y password*/
 .icono1 { 
-	background-image: url('user.png'); 
+	background-image: url('img/user.png'); 
 	background-repeat: no-repeat;
 	background-position: 5px center;
 	background-size: 30px;

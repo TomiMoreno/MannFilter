@@ -10,7 +10,7 @@
 	
 <div class="logo">
 	<center><header>
-		<img  class="avatar" src="logo.jpg"><br><br>
+		<img  class="avatar" src="img/logo.jpg"><br><br>
 
 		<!-- inicio de formulario login -->
 		
@@ -23,7 +23,7 @@
 			<div class="icono2">
 		<input type="password" name="password" id="password" placeholder="Contraseña">
 
-		<img src="mostrar.png" alt="Mostrar contraseña" id="boton" onclick="mostrarContrasena()">
+		<img src="img/mostrar.png" alt="Mostrar contraseña" id="boton" onclick="mostrarContrasena()">
 		
 		</div>
 		<!--boton de iniciar sesion -->
@@ -53,18 +53,18 @@
 		function mostrarContrasena(){
 			if (input.type == "password"){
 				input.type = "text";
-				boton.src = "ocultar.png";
+				boton.src = "img/ocultar.png";
 
 				/*setTimeout("ocultar()", 2000);*/
 			}  else { 
 				input.type = "password";
-				boton.src = "mostrar.png";
+				boton.src = "img/mostrar.png";
 			}
 		}
 
 		function ocultar (){
 			input.type = "password";
-			boton.src = "ocultar.png"
+			boton.src = "img/ocultar.png"
 		}
 	</script>
 
