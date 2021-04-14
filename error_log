@@ -1,0 +1,207 @@
+[02-Nov-2020 23:00:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 35
+[02-Nov-2020 23:00:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 60
+[02-Nov-2020 23:00:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 35
+[02-Nov-2020 23:00:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 60
+[02-Nov-2020 23:00:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 35
+[02-Nov-2020 23:00:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 60
+[02-Nov-2020 23:00:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 35
+[02-Nov-2020 23:00:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 60
+[02-Nov-2020 23:01:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 35
+[02-Nov-2020 23:01:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 60
+[03-Nov-2020 17:26:01 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlist.php on line 195
+[03-Nov-2020 17:26:01 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlist.php on line 195
+[03-Nov-2020 17:26:20 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlist.php on line 195
+[09-Nov-2020 21:44:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlist.php on line 84
+[09-Nov-2020 21:44:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlist.php on line 112
+[09-Nov-2020 21:44:27 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlist.php on line 196
+[09-Nov-2020 21:44:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlist.php on line 84
+[09-Nov-2020 21:44:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlist.php on line 112
+[09-Nov-2020 21:44:27 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlist.php on line 196
+[09-Nov-2020 22:32:10 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlist.php on line 196
+[09-Nov-2020 22:32:10 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlist.php on line 196
+[18-Nov-2020 17:32:57 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 17:32:57 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 17:32:57 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 17:32:57 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 17:59:01 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 17:59:01 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 17:59:05 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 17:59:05 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 17:59:05 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 17:59:05 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 17:59:05 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 17:59:05 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 17:59:05 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 17:59:05 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 17:59:05 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 17:59:05 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 17:59:05 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 17:59:05 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 17:59:07 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 17:59:07 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 17:59:08 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 17:59:08 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 17:59:09 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 17:59:09 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 17:59:09 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 17:59:09 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 17:59:09 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 17:59:09 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 17:59:10 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 17:59:10 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 17:59:20 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 17:59:20 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 17:59:21 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 17:59:21 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 17:59:21 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 17:59:21 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 17:59:23 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 17:59:23 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 17:59:26 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 17:59:26 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 17:59:26 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 17:59:26 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 17:59:27 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 17:59:27 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 17:59:34 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 17:59:34 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 17:59:35 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 17:59:35 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 17:59:35 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 17:59:35 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 17:59:35 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 17:59:35 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 17:59:35 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 17:59:35 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 17:59:35 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 17:59:35 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 17:59:39 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 17:59:39 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 22:58:34 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 22:58:34 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 22:58:34 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 22:58:34 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 22:58:34 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 22:58:34 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 22:58:34 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 22:58:34 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 22:58:35 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 22:58:35 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 22:58:56 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 22:58:56 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 22:58:56 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 22:58:56 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 22:58:56 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 22:58:56 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 22:58:56 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 22:58:56 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 22:58:56 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 22:58:56 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 22:58:59 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 22:58:59 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 22:58:59 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 22:58:59 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 22:59:00 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 22:59:00 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 22:59:00 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 22:59:00 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 22:59:32 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 22:59:32 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 22:59:32 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 22:59:32 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 22:59:32 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 22:59:32 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 22:59:33 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 22:59:33 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 22:59:33 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 22:59:33 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 23:31:46 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 23:31:46 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 23:31:46 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 23:31:46 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 23:31:46 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 23:31:46 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 23:31:46 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 23:31:46 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 23:31:47 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 23:31:47 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 23:33:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 35
+[18-Nov-2020 23:33:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 41
+[18-Nov-2020 23:33:06 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 23:33:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 79
+[18-Nov-2020 23:33:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 107
+[18-Nov-2020 23:33:06 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 23:33:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 35
+[18-Nov-2020 23:33:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 41
+[18-Nov-2020 23:33:07 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 23:33:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 79
+[18-Nov-2020 23:33:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 107
+[18-Nov-2020 23:33:07 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 23:33:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 35
+[18-Nov-2020 23:33:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 41
+[18-Nov-2020 23:33:07 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 23:33:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 79
+[18-Nov-2020 23:33:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 107
+[18-Nov-2020 23:33:07 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 23:33:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 35
+[18-Nov-2020 23:33:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 41
+[18-Nov-2020 23:33:07 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 23:33:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 79
+[18-Nov-2020 23:33:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 107
+[18-Nov-2020 23:33:07 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 23:33:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 35
+[18-Nov-2020 23:33:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 41
+[18-Nov-2020 23:33:07 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 23:33:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 79
+[18-Nov-2020 23:33:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 107
+[18-Nov-2020 23:33:07 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 23:33:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 35
+[18-Nov-2020 23:33:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 41
+[18-Nov-2020 23:33:09 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 23:33:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 79
+[18-Nov-2020 23:33:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 107
+[18-Nov-2020 23:33:09 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 23:33:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 35
+[18-Nov-2020 23:33:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 41
+[18-Nov-2020 23:33:09 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 23:33:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 79
+[18-Nov-2020 23:33:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 107
+[18-Nov-2020 23:33:09 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 23:33:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 35
+[18-Nov-2020 23:33:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 41
+[18-Nov-2020 23:33:09 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 23:33:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 79
+[18-Nov-2020 23:33:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 107
+[18-Nov-2020 23:33:09 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 23:33:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 35
+[18-Nov-2020 23:33:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 41
+[18-Nov-2020 23:33:09 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 23:33:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 79
+[18-Nov-2020 23:33:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/profe93/public_html/mann/getlistpedidos.php on line 107
+[18-Nov-2020 23:33:09 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 23:33:15 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 23:33:15 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 23:33:15 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 23:33:15 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 23:33:15 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 23:33:15 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 23:33:15 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 23:33:15 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 23:33:16 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 23:33:16 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 23:34:21 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 23:34:21 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 23:34:22 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 23:34:22 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 23:34:22 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 23:34:22 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 23:34:32 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 23:34:32 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[18-Nov-2020 23:34:33 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[18-Nov-2020 23:34:33 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[20-Nov-2020 18:03:50 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[20-Nov-2020 18:03:50 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[20-Nov-2020 18:03:50 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[20-Nov-2020 18:03:50 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167
+[20-Nov-2020 18:03:50 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 71
+[20-Nov-2020 18:03:50 UTC] PHP Warning:  Division by zero in /home/profe93/public_html/mann/getlistpedidos.php on line 167

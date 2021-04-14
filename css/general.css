@@ -1,0 +1,343 @@
+
+body {
+	margin: 0px;
+	padding: 0px;
+	background: #f9f15c;
+	font-family: Bahnschrift, Regular;
+	width: 100vh;
+}
+
+
+#boton1 {
+	cursor: pointer;
+	width:	35px;
+}
+/* resolucion de pantalla 19 a 23 pulgadas*/
+@media (max-height:1080px) and (max-width: 1920px){
+	.logo {
+		/*width: 2000px
+		heigh: 500px
+		background: #000;*/
+		color: #00a85a;
+		top: 50%;
+		left: 50%;
+		position: absolute;
+		transform: translate(-50%, -50%);
+		box-sizing: border-box;
+		padding: 70px 30px
+	
+	}
+/* cuadro de inicio de sesion*/
+	.logo .avatar {
+		width: 400px;
+		height: 220px;
+		position: relative;
+		top: 0px;
+		left: calc (50%  -  50px);  
+
+	}
+.
+
+/* cuadros de usuario y contraseña */
+	.logo  input {
+		width: 85%;
+		margin-bottom: -10px;
+
+
+	}
+
+	.logo input[type="text"] {
+	width: 85%;
+	border: none;
+	border-bottom: 2px solid #00a85a;
+	background: transparent;
+	outline: none;
+	height: 40px;
+	color: #00a85a ;
+	font-size: 20px;
+	padding-left: 30px;
+	
+}
+
+	.logo input[type="password"]{
+	width: 65%;
+	border: none;
+	border-bottom: 2px solid #00a85a;
+	background: transparent;
+	outline: none;
+	height: 50px;
+	color: #00a85a ;
+	font-size: 20px;
+	padding-left: 30px;
+	padding-right: 54px;
+
+}
+
+
+
+/*BOTON de  CAPTCHA */
+	.logo input[type="button"]{
+
+	text-decoration: none;
+    outline: none;
+    height: 22px;
+    margin-top: 2px;
+    padding: auto;
+    font-family: Bahnschrift, Regular;
+    font-size: 20px;
+    color: #f9f15c;
+    background-color: #00702F;
+    border: none;
+    border-radius: 6px;
+    margin-bottom: 5px;
+}
+
+.logo input[type="button"]:hover{
+	color: #FFEB00;
+
+}
+
+
+
+
+/* boton de inicio de sesion  y registro*/
+.logo  button {
+		width: 100%;
+		height: 50%;
+		margin-bottom: 5px
+
+	}
+
+.logo button{
+	text-decoration: none;
+	outline: none;
+	height: 40px;
+	margin-top: 10px;
+	padding: auto;
+	font-family: Bahnschrift, Regular;
+	font-size: 29px;
+	color: #f9f15c;
+	background-color: #00a85a;
+	border:none;
+	border-radius: 6px;
+	margin-bottom: 15px;
+}
+
+.logo button:hover{
+	color: #004a28;
+
+}
+.logo button:actived{
+	background: #004a28;
+	color: #f9f15c;
+}
+
+
+/* icono de username y password*/
+.icono1 { 
+	background-image: url("../img/user.png"); 
+	background-repeat: no-repeat;
+	background-position: 5px center;
+	background-size: 30px;
+	display: flex; 
+	align-items: center; 
+	width: 100%;
+	padding-left: 8px;
+	height: 40px;
+	border: none;
+}
+.icono2 { 
+	background-image: url("../img/pass.png"); 
+	background-repeat: no-repeat;
+	background-position: 5px center;
+	background-size: 30px;
+	display: flex; 
+	align-items: center; 
+	width: 100%;
+	padding-left: 8px;
+	height: 40px;
+	border: none;
+}
+	
+}
+
+/* si hubo problemas para ingresar*/
+.logo a {
+	text-decoration: none;
+	font-size: 13px;
+	line-height: 20px;
+	color: #00a85a;
+
+}
+
+.logo a:hover{
+	color: #004a28;
+}
+
+}
+
+
+
+/* resolucion de pantalla para moviles y tablets*/
+@media (min-height:  360px) and (max-width: 1079px) {
+	.logo {
+		/*width: 2000px
+		heigh: 500px
+		background: #000;*/
+		color: #00a85a;
+		top: 50%;
+		left: 50%;
+		position: absolute;
+		transform: translate(-50%, -50%);
+		box-sizing: border-box;
+		padding: 70px 30px
+	
+	}
+/* cuadro de inicio de sesion*/
+	.logo .avatar {
+		width: 400px;
+		height: 220px;
+		position: relative;
+		top: 0px;
+		left: calc (50%  -  50px);  
+
+	}
+/* cuadros de usuario y contraseña */
+	.logo  input {
+		width: 85%;
+		margin-bottom: 10px;
+
+	}
+
+	.logo input[type="text"] {
+	width: 85%;
+	border: none;
+	border-bottom: 2px solid #00a85a;
+	background: transparent;
+	outline: none;
+	height: 40px;
+	color: #00a85a ;
+	font-size: 20px;
+	padding-left: 26px;
+}
+
+	.logo input[type="password"]{
+	width: 65%;
+	border: none;
+	border-bottom: 2px solid #00a85a;
+	background: transparent;
+	outline: none;
+	height: 50px;
+	color: #00a85a ;
+	font-size: 20px;
+	padding-left: 25px;
+	padding-right: 54px;
+
+}
+
+
+
+
+/*BOTON de  CAPTCHA */
+	.logo input[type="button"]{
+
+	text-decoration: none;
+	outline: none;
+	height: 22px;
+	margin-top: 20px;
+	padding: auto;
+	font-family: Bahnschrift, Regular;
+	font-size: 20px;
+	color: #f9f15c;
+	background-color: #00702F;
+	border:none;
+	border-radius: 6px;
+	margin-bottom: 10px;
+}
+
+.logo input[type="button"]:hover{
+	color: #FFEB00;
+
+}
+
+
+
+/* boton de inicio de sesion */
+.logo  button {
+		width: 100%;
+		height: 50%;
+		margin-bottom: 65px
+
+	}
+
+.logo button{
+	text-decoration: none;
+	outline: none;
+	height: 30px;
+	margin-top: 20px;
+	padding: auto;
+	font-family: Bahnschrift, Regular;
+	font-size: 25px;
+	color: #f9f15c;
+	background-color: #00a85a;
+	border:none;
+	border-radius: 6px;
+}
+
+.logo button:hover{
+	color: #004a28;
+
+}
+.logo button:actived{
+	background: #004a28;
+	color: #f9f15c;
+}
+
+/* icono de username y password*/
+.icono1 { 
+	background-image: url('user.png'); 
+	background-repeat: no-repeat;
+	background-position: 25px center;
+	background-size: 30px;
+	display: flex; 
+	align-items: center; 
+	width: 100%;
+	padding-left: 30px;
+	height: 40px;
+	border: none;
+	
+}
+
+.icono2 { 
+	background-image: url('password.png'); 
+	background-repeat: no-repeat;
+	background-position: 23px center;
+	background-size: 25px;
+	display: flex; 
+	align-items: center; 
+	width: 100%;
+	padding-left: 25px;
+	height: 35px;
+	border: none;
+	
+}
+
+/* si hubo problemas para ingresar*/
+.logo a {
+	text-decoration: none;
+	font-size: 13px;
+	line-height: 20px;
+	color: #00a85a;
+
+}
+
+.logo a:hover{
+	color: #004a28;
+}
+
+}/*
+
+
+
+
+

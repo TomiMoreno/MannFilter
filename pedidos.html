@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <title>Proovedores</title>
+        <meta charset="UTF-8">
+        <!--Conexión con JavaScript-->
+        <script src="function.js"></script>
+        <link rel="shortcut icon" href="logo.jpeg">
+        <!--Conexión con CSS-->
+        <link rel="stylesheet" href="styles.css" type="text/css">
+    </head>
+    <body>
+        <form action="logout.php">
+            <button type="submit" class="sesion">Cerrar sesión</button>
+        </form>
+        <h1>Lista de productos</h1>
+        <form>
+            <!--Creamos un botón con función para que ejecute el JavaScript-->
+            <button class="pedidos" type="button" name="reload" onclick="loadList()">VER PEDIDOS</button>
+        </form>
+        <br>
+        <!--Asignamos un ID al texto para que luego, mediante el js, se cambie por lo solicitado-->
+        <div id="listArea"><b>Pulse el botón para recargar la lista de pedidos...</b></div>
+    </body>
+</html>

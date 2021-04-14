@@ -1,0 +1,39 @@
+/*Definimos el cuerpo de la pagina*/
+html{
+	min-height: 100%;
+ 	position: relative;
+}
+body{
+	background-color: #f9f15c;
+  	font-family: "RobotoCondensed", Tahoma, Geneva, sans-serif;
+  	margin: 20px;
+ 
+}
+footer {
+  	text-align: center;
+  	font-family: "RobotoCondensed", Tahoma, Geneva, sans-serif;
+}
+
+.subidaArchivo {
+	margin: 0;
+	position: absolute;
+	top: 344px;
+	left: 50%;
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	border-style: solid;
+	border-color:#004a28;
+	width: 359px;
+	 margin-bottom: 15px;
+	 
+  }
+
+  #cargaArchivo{
+	margin: 0;
+	position: absolute;
+	top: 40%;
+	left: 50%;
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+
+  }

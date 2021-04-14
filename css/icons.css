@@ -1,0 +1,100 @@
+/*Estilo para iconos del login*/
+.icono1 { 
+	background-image: url("../img/user.png"); 
+	background-repeat: no-repeat;
+	background-position: 5px center;
+	background-size: 30px;
+	display: flex; 
+	align-items: center; 
+	width: 100%;
+	padding-left: 8px;
+	height: 40px;
+	border: none;
+}
+.icono2 { 
+	background-image: url("../img/pass.png"); 
+	background-repeat: no-repeat;
+	background-position: 5px center;
+	background-size: 30px;
+	display: flex; 
+	align-items: center; 
+	width: 100%;
+	padding-left: 8px;
+	height: 40px;
+	border: none;
+}
+/*Resolucion de pantalla de 12 a 15 pulgadas*/
+@media (max-height:1080px) and (max-width: 1920px){
+.logo {
+	color: #00a85a;
+	top: 50%;
+	left: 50%;
+	position: absolute;
+	transform: translate(-50%, -50%);
+	box-sizing: border-box;
+	padding: 70px 30px
+}
+/*Cuadro de inicio de sesion*/
+.logo .avatar {
+	width: 400px;
+	height: 220px;
+	position: relative;
+	top: 10px;
+	left: calc (50%  -  50px);  
+
+	}
+/*Cuadros de usuario y contraseña */
+.logo input {
+	width: 85%;
+	margin-bottom: -10px;
+	}
+.logo input[type="text"] {
+	width: 91%;
+	border: none;
+	background: transparent;
+	outline: none;
+	height: 18px;
+	color: #00a85a ;
+	font-size: 20px;
+	padding-left: 28px;
+	padding-right: 30px;
+	border-bottom: 2px solid #00a85a;
+}
+/*Input cotraseña*/
+.logo input[type="password"]{
+	width: 91%;
+	border: none;
+	background: transparent;
+	outline: none;
+	height: 18px;
+	color: #00a85a;
+	font-size: 20px;
+	padding-left: 28px;
+	padding-right: 30px;
+	border-bottom: 2px solid #00a85a;
+}
+/*Estilo para el boton de inicio de sesion*/
+.logo button {
+	text-decoration: none;
+	outline: none;
+	margin-top: 25px;
+	padding: auto;
+	font-family: Bahnschrift, Regular;
+	font-size: 29px;
+	color: #f9f15c;
+	background-color: #00a85a;
+	border:none;
+	border-radius: 6px;
+	width: 100%;
+	height: 50%;
+	margin-bottom: 65px;
+}
+.logo button:hover {
+	color: #004a28;
+}
+.logo button:actived {
+	background: #004a28;
+	color: #f9f15c;
+}
+
+}

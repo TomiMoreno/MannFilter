@@ -1,0 +1,155 @@
+/*Estilo para el boton*/
+.pedidos {
+  text-decoration: none;
+  padding: 5px;
+  font-weight: 600;
+  font-size: 20px;
+  color: #f9f15c;
+  background-color: #00a85a;
+  border-radius: 6px;
+  position: absolute;
+  top: 2%;
+  left: 1%;
+	border:0;
+}
+/*Estilo para el boton*/
+.sesion {
+    text-decoration: none;
+    padding: 5px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #f9f15c;
+    background-color: #00a85a;
+    border-radius: 6px;
+    position: absolute;
+    top: 2%;
+    right: 1%;
+    border:0;
+}
+/*Estilo para el boton*/
+.admin {
+    padding: 5px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #f9f15c;
+    background-color: #00a85a;
+    border-radius: 6px;
+    position: absolute;
+    top: 8%;
+    right: 1%;
+    border: 0;
+}
+/*Estilo para el boton*/
+.button1 {
+    text-decoration: none;
+    padding: 5px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #f9f15c;
+    background-color: #00a85a;
+    border-radius: 6px;
+    position: absolute;
+    left: 1%;
+    border:0;
+}
+.subida {
+    padding: 5px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #f9f15c;
+    background-color: #00a85a;
+    border-radius: 6px;
+    position: absolute;
+    top: 14%;
+    right: 1%;
+    border: 0;
+}
+.cargar{
+    padding: 5px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #00a85a;
+    background-color: #f9f15c;
+    border-radius: 6px;
+    position: relative;
+    top: 8%;
+    margin-left: 20%;
+    margin-right: 20%;
+    border: 1;
+}
+.cargarprov{
+    padding: 5px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #00a85a;
+    background-color: #f9f15c;
+    border-radius: 6px;
+    position: relative;
+    top: 8%;
+    margin-left: 8%;
+    margin-right: 32%;
+    border: 1;
+}
+.regis{
+    text-decoration: none;
+    padding: 5px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #f9f15c;
+    background-color: #00a85a;
+    border-radius: 6px;
+    position: absolute;
+    right: 1%;
+    border:0;
+}
+.button2{
+    text-decoration: none;
+    padding: 5px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #f9f15c;
+    background-color: #00a85a;
+    border-radius: 6px;
+    position: relative;
+    left: 1%;
+    border: 0;
+}
+
+.exportar {
+    text-decoration: none;
+    padding: 5px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #f9f15c;
+    background-color: #00a85a;
+    border-radius: 6px;
+    top: 2%;
+    left: 1%;
+      border:0;
+  }
+  .adminestados{
+    padding: 5px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #f9f15c;
+    background-color: #00a85a;
+    border-radius: 6px;
+    position: absolute;
+    top: 20%;
+    right: 1%;
+    border: 0;   
+  }
+
+  .buttonlist {
+    text-decoration: none;
+    padding: 5px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #f9f15c;
+    background-color: #00a85a;
+    border-radius: 6px;
+    position: absolute;
+    left: 1%;
+    border:0;
+    margin-top: 15px;
+  }

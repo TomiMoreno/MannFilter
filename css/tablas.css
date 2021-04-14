@@ -1,0 +1,47 @@
+/*Estilo para la tabla*/
+table{
+    font-family: "RobotoCondensed", Tahoma, Geneva, sans-serif;
+    width: 97%;
+    border-collapse: collapse;
+    margin: 20 auto;
+}
+/*Estilo para columnas y filas*/
+table, td, th{
+    border: 1px solid black;
+    padding: 5px;
+}
+/*Estilo para columnas*/
+th{
+    text-align: left;
+}
+/*Colores para warning*/
+.verde{
+    background-color: green;
+}
+
+.amarillo{
+    background-color: yellow;
+}
+  
+.naranja{
+    background-color: orange;
+}
+  
+.rojo{
+    background-color: red;
+    
+}
+
+.blink_me{
+    animation:1s blinker linear infinite;
+    
+}
+
+@keyframes blinker {
+    0% { opacity: 1.0; } 
+ 
+    50% { opacity: 0.0; } 
+ 
+    100% { opacity: 1.0; } 
+}
+
