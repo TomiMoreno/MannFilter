@@ -1,0 +1,112 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background: #f9f15c;
+  font-family: Bahnschrift, Regular;
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  place-items: center;
+}
+
+
+.contenedor {
+  color: #00a85a;
+}
+
+/* Imagen mann filter*/
+.contenedor .avatar {
+  width: 400px;
+  height: 220px;
+}
+
+.correo,
+.clave {
+  background-repeat: no-repeat;
+  background-position: 5px center;
+  background-size: 30px;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  padding-left: 8px;
+  height: 40px;
+}
+/* icono de username y password*/
+.clave {
+  background-image: url("../img/pass.png");
+}
+
+.correo {
+  background-image: url("../img/user.png");
+}
+
+input {
+  width: 85%;
+  outline: none;
+  border: none;
+  font-size: 20px;
+}
+.correo > input,
+.clave > input {
+  border-bottom: 2px solid #00a85a;
+  background: transparent;
+  outline: none;
+  height: 30px;
+  color: #00a85a;
+  padding-left: 30px;
+}
+
+#ojo {
+  position: relative;
+  left: -25px;
+  cursor: pointer;
+}
+
+/*Botón de captcha*/
+#captcha {
+  height: 22px;
+  font-family: Bahnschrift, Regular;
+  color: #f9f15c;
+  background-color: #00702f;
+  border-radius: 6px;
+}
+
+#captcha:hover {
+  color: #ffeb00;
+}
+#captcha,
+button {
+  cursor: pointer;
+}
+
+.contenedor button {
+  outline: none;
+  height: 40px;
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  color: #f9f15c;
+  font-size: 29px;
+  background-color: #00a85a;
+  border: none;
+  border-radius: 6px;
+  font-family: inherit;
+}
+
+
+
+.contenedor button:hover {
+  color: #004a28;
+}
+
+.contenedor button:active {
+  background: #004a28;
+  color: #f9f15c;
+}
+
+footer h5 {
+  text-align: center;
+  font-family: "RobotoCondensed", Tahoma, Geneva, sans-serif;
+}
+
+

@@ -309,7 +309,7 @@ body {
 }
 
 .icono2 { 
-	background-image: url('password.png'); 
+	background-image: url('/img/password.png'); 
 	background-repeat: no-repeat;
 	background-position: 23px center;
 	background-size: 25px;
